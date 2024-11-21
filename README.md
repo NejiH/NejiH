@@ -1,4 +1,4 @@
-<img align="left"  src="https://imgur.com/a/EWMi0uS" alt="Hello, I'm Arnaud"/>
+<img align="left"  src="./img/github_cover.png" alt="Hello, I'm Arnaud"/>
 
 <p id="description">Here are a few things to know about me:<br>🔭 I’m currently student at the Ada Tech School in a fullstack cursus<br>🌱 I'm very interested in knowing more how to create accessibility driven and environmentally responsible apps<br>👯 I’m looking for an apprentice role in frontend or iOS programming<br>⚡ I've already worked with JavaScript HTML CSS Vite.js and MySQL<br>📚I'm currently learning Swift SwiftUI and TailwindCSS</p>
 
