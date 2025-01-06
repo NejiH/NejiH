@@ -1,6 +1,6 @@
 <img align="left"  src="./img/header_github.png" alt="Hello, I'm Arnaud"/><br><br>
 
-<p id="description">Here are a few things to know about me:<br>🔭 I’m currently student at the Ada Tech School in a fullstack cursus<br>🌱 I'm very interested in knowing more how to create accessibility driven and environmentally responsible apps<br>👯 I’m looking for an apprentice role in frontend or iOS programming<br>⚡ I've already worked with JavaScript HTML CSS Vite.js and MySQL<br>📚I'm currently learning Swift SwiftUI and TailwindCSS</p>
+<p id="description">Here are a few things to know about me:<br>🔭 I’m currently student at the Ada Tech School in a fullstack cursus<br>🌱 I'm very interested in knowing more how to create accessibility driven and environmentally responsible apps<br>👯 I’m looking for an apprentice role in frontend or iOS programming<br>⚡ I've already worked with JavaScript HTML CSS Vite.js, Svelte and MySQL<br>📚 I'm currently learning Swift SwiftUI and TailwindCSS</p>
 
 ### Let's connect:
 
@@ -18,5 +18,7 @@
 <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:384/1*PeFnya42mpOiCvdgm49ifQ.png" alt="swiftui" width="40" height="40"></a>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/b1/58/2fb15811-5b85-6fe8-fcd9-7c5d850afffe/Xcode-85-220-0-4-2x-sRGB.png/1200x630bb.png" alt="xcode" width="40" height="40"></a>
 </a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/svelte-icon.svg" alt="svelte" width="40" height="40"></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode" width="40" height="40"></a>
+
 </p>
