@@ -52,15 +52,9 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/arnaudhayon/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaudhayon" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nejih&show_icons=true&theme=tokyonight" alt="NejiH's GitHub stats"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nejih&theme=tokyonight" alt="NejiH's streak stats"/>
+  <a href="hmailto:contact@arnaudhayon.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3178/3178158.png" alt="email" height="30" width="40" />
+  </a>
 </p>
