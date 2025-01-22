@@ -41,7 +41,7 @@
     <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" alt="vscode" width="40" height="40"/>
+    <img src="https://freebsdfoundation.org/wp-content/uploads/2024/05/vscode-logo.png" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:384/1*PeFnya42mpOiCvdgm49ifQ.png" alt="swiftui" width="40" height="40"/>
