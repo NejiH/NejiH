@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently a student in the Advanced Program of the Apple Foundation Program at Simplon 
+- 🎓 I'm currently a student in the **Advanced Program** of the **Apple Foundation Program** at Simplon 
 - 🌱 I'm passionate about learning how to create accessible and user-friendly apps
 - 💼 Focus iOS development
 
