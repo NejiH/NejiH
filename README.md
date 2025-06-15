@@ -2,26 +2,32 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently a student at Ada Tech School in a fullstack curriculum
-- 🌱 I'm passionate about learning how to create accessible and user-friendly applications
-- 💼 Focusing on web and iOS development
+- 🎓 I'm currently a student in the Advanced Program of the Apple Foundation Program at Simplon 
+- 🌱 I'm passionate about learning how to create accessible and user-friendly apps
+- 💼 Focus iOS development
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 
 <p align="left">
+   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/256/5968/5968371.png" alt="swift" width="40" height="40"/>
+  </a>
+  <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:384/1*PeFnya42mpOiCvdgm49ifQ.png" alt="swiftui" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/256/5968/5968371.png" alt="swift" width="40" height="40"/>
   </a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/svelte-icon.svg" alt="svelte" width="40" height="40"/>
@@ -31,9 +37,6 @@
 ### Tools & Technologies
 
 <p align="left">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -42,9 +45,6 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://freebsdfoundation.org/wp-content/uploads/2024/05/vscode-logo.png" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:384/1*PeFnya42mpOiCvdgm49ifQ.png" alt="swiftui" width="40" height="40"/>
   </a>
 </p>
 
