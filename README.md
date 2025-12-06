@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently a student in the **Advanced Program** of the **Apple Foundation Program** at Simplon 
+- 🎓 I've joined the **Advanced Program** of the **Apple Foundation Program** at Simplon - Paris, France
 - 🌱 I'm passionate about learning how to create accessible and user-friendly apps
 - 💼 Focus iOS development
 
@@ -37,14 +37,14 @@
 ### Tools & Technologies
 
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://freebsdfoundation.org/wp-content/uploads/2024/05/vscode-logo.png" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
 
